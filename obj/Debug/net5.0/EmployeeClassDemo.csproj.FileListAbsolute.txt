@@ -1,0 +1,16 @@
+C:\Users\Anamika\EmployeeClassDemo\obj\Debug\net5.0\EmployeeClassDemo.csproj.AssemblyReference.cache
+C:\Users\Anamika\EmployeeClassDemo\obj\Debug\net5.0\EmployeeClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anamika\EmployeeClassDemo\obj\Debug\net5.0\EmployeeClassDemo.AssemblyInfoInputs.cache
+C:\Users\Anamika\EmployeeClassDemo\obj\Debug\net5.0\EmployeeClassDemo.AssemblyInfo.cs
+C:\Users\Anamika\EmployeeClassDemo\obj\Debug\net5.0\EmployeeClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\Anamika\EmployeeClassDemo\bin\Debug\net5.0\EmployeeClassDemo.exe
+C:\Users\Anamika\EmployeeClassDemo\bin\Debug\net5.0\EmployeeClassDemo.deps.json
+C:\Users\Anamika\EmployeeClassDemo\bin\Debug\net5.0\EmployeeClassDemo.runtimeconfig.json
+C:\Users\Anamika\EmployeeClassDemo\bin\Debug\net5.0\EmployeeClassDemo.runtimeconfig.dev.json
+C:\Users\Anamika\EmployeeClassDemo\bin\Debug\net5.0\EmployeeClassDemo.dll
+C:\Users\Anamika\EmployeeClassDemo\bin\Debug\net5.0\ref\EmployeeClassDemo.dll
+C:\Users\Anamika\EmployeeClassDemo\bin\Debug\net5.0\EmployeeClassDemo.pdb
+C:\Users\Anamika\EmployeeClassDemo\obj\Debug\net5.0\EmployeeClassDemo.dll
+C:\Users\Anamika\EmployeeClassDemo\obj\Debug\net5.0\ref\EmployeeClassDemo.dll
+C:\Users\Anamika\EmployeeClassDemo\obj\Debug\net5.0\EmployeeClassDemo.pdb
+C:\Users\Anamika\EmployeeClassDemo\obj\Debug\net5.0\EmployeeClassDemo.genruntimeconfig.cache
